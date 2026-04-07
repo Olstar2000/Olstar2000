@@ -1,4 +1,4 @@
-<div> Hi🖐🏼 My name is Oleg and I'm a 16 year old guy. <div/>
+<div> Profile for study in school. <div/>
 
 
 
