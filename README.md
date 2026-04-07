@@ -1,4 +1,4 @@
-<div> Profile for study in school. <div/>
+<div> Profile for school education. <div/>
 
 
 
